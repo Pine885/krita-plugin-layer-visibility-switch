@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Layer Visibility Switch">
+    <Actions category="Layer Visibility Switch">
+        <text>Layer Visibility Switch</text>
+
+        <Action name="layer_vis_up">
+            <icon></icon>
+            <text>Switch Visibility Up</text>
+            <whatsThis>Moves focus to the layer above and toggles visibility.</whatsThis>
+            <toolTip>Switch Visibility Up</toolTip>
+            <iconText>Switch Visibility Up</iconText>
+            <activationFlags>10000</activationFlags>
+            <activationConditions>0</activationConditions>
+            <shortcut></shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip>Switch Visibility Up</statusTip>
+        </Action>
+
+        <Action name="layer_vis_down">
+            <icon></icon>
+            <text>Switch Visibility Down</text>
+            <whatsThis>Moves focus to the layer below and toggles visibility.</whatsThis>
+            <toolTip>Switch Visibility Down</toolTip>
+            <iconText>Switch Visibility Down</iconText>
+            <activationFlags>10000</activationFlags>
+            <activationConditions>0</activationConditions>
+            <shortcut></shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip>Switch Visibility Down</statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>

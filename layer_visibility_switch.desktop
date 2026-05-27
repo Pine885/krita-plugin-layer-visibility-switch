@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=layer_visibility_switch
+X-Python-2-Compatible=false
+Name=Layer Visibility Switch
+Comment=Switch active layer and toggle visibility.
