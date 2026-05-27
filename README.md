@@ -9,6 +9,8 @@ This plugin implements a "Solo" navigation mode for your layers. When you move t
 
 This is ideal for quickly cycling through layers to see their individual contributions without manually clicking the visibility eye icon for each one.
 
+switchvisibilitylayer.gif
+
 ## 📂 Installation
 1. In Krita, go to **Tools** $\rightarrow$ **Scripts** $\rightarrow$ **Import Python Plugin from File...**
 2. Select the `layer-visibility-switch.zip` file.
