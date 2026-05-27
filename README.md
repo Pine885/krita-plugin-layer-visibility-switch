@@ -7,7 +7,7 @@ This plugin implements a "Solo" navigation mode for your layers. When you move t
 - The **previous** active layer is automatically set to **invisible**.
 - The **new** active layer is automatically set to **visible**.
 
-This is ideal for quickly cycling through layers to see their individual contributions without manually clicking the visibility eye icon for each one.
+This is ideal for quickly cycling through layers to see them individually without manually clicking the visibility eye icon for each one.
 
 ![switchvisibilitylayer.gif](https://github.com/Pine885/krita-plugin-layer-visibility-switch/blob/main/switchvisibilitylayer.gif)
 
